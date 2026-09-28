@@ -1,0 +1,10 @@
+/* dark theme */
+body {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+h2,
+p {
+    color: #ffffff;
+}
